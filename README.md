@@ -5,13 +5,13 @@ Este repositório contém um conjunto de scripts Python para realizar ETL (Extra
 
 ### Etapa-1:
 Identifica o ator ou atriz com o maior número de filmes e a quantidade de filmes em que ele ou ela participou.
-###Etapa-2:
+### Etapa-2:
 Calcula a média da receita de bilheteria bruta dos principais filmes.
-###Etapa-3:
+### Etapa-3:
 Encontra o ator ou atriz com a maior média de receita de bilheteria bruta por filme.
-###Etapa-4
+### Etapa-4
 Conta as aparições dos filmes de maior bilheteria no conjunto de dados, listando-os ordenados pela quantidade de vezes em que estão presentes.
-###Etapa-5:
+### Etapa-5:
 Lista os atores ordenados pela receita bruta de bilheteria de seus filmes em ordem decrescente.
 Instruções de Uso:
 
